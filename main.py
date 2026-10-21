@@ -1,6 +1,8 @@
 from confluent_kafka import Producer, Consumer, KafkaError
 import json
 
+#изменения для гита
+
 while True:
     # Конфигурация продюсера
     conf = {
